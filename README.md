@@ -25,3 +25,13 @@ Both charts were designed using <a href="https://www.datawrapper.de/">Datawrappe
   <li>Bar chart: Domestic violence cases deemed as “high risk” by the Multi Agency Risk Assessment Conference in Birmingham from 2013/14 to 2016/17.</li>
   <li>Bar chart: Birmingham expenditure on domestic violence services and projects, as a sum of the spending by both the Place and People's Directorates of the City Council from 2013/14 to 2016/17.</li>
 </ul>
+
+#Other Media Coverage
+<ul>
+<li><a href= "http://www.independent.co.uk/news/uk/politics/women-refuge-budget-cut-quarter-domestic-violence-victims-children-support-a8003066.html">The Independent: Women's refuge budgets slashed by nearly a quarter over last seven years</a></li>
+
+<li><a href="http://www.birminghampost.co.uk/news/regional-affairs/woman-told-go-600-miles-13770133?service=responsive">Birmingham Post: Women told to go 600 miles to ORKNEY as Midland refuges were full</a></li>
+
+<li><a href="http://www.yorkshireeveningpost.co.uk/news/women-s-refuge-funds-reduced-in-west-yorkshire-as-domestic-abuse-figures-rise-1-8807948">Yorkshire Evening Post: Women's Refuge fund reduced in West Yorkshire as domestic abuse figures rise</a></li>
+
+</ul>
