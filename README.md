@@ -1,7 +1,7 @@
 # domestic-violence
 Domestic violence cases soar as funding is cut in Birmingham:
 http://birminghameastside.com/2017/10/16/domestic-violence-funding-cuts-birmingham/
-Report by Wan Ulfa, Victòria Oliveres, Carmen Aguilar and Steve Carufel.
+Report by Wan Ulfa Nur Zuhra, Victòria Oliveres, Carmen Aguilar and Steve Carufel.
 
 ![Domestic violence cases deemed as high-risk in Birmingham](https://github.com/Birmingham-Eastside/domestic-violence/blob/master/Bar%20chart%20-%20Domestic%20violence%20cases%20deemed%20as%20high-risk%20in%20Birmingham.png?raw=true)
 
@@ -34,5 +34,9 @@ Both charts were designed using <a href="https://www.datawrapper.de/">Datawrappe
 <li><a href="http://www.birminghampost.co.uk/news/regional-affairs/woman-told-go-600-miles-13770133?service=responsive">Birmingham Post: Women told to go 600 miles to ORKNEY as Midland refuges were full</a></li>
 
 <li><a href="http://www.yorkshireeveningpost.co.uk/news/women-s-refuge-funds-reduced-in-west-yorkshire-as-domestic-abuse-figures-rise-1-8807948">Yorkshire Evening Post: Women's Refuge fund reduced in West Yorkshire as domestic abuse figures rise</a></li>
+
+<li><a href="https://www.thebureauinvestigates.com/stories/2017-10-16/a-system-at-breaking-point">The Bureau Investigative Journalism: Revealed: Thousands of vulnerable women turned away as refuge funding is cut</a></li>
+
+<li><a href="https://www.channel4.com/news/women-turned-away-from-cash-strapped-refuges">Channel 4: Women turned away from cash-strapped refuges</a></li>
 
 </ul>
