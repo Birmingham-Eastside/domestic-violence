@@ -16,7 +16,7 @@ The data was obtained as part of a nationwide investigation by TBIJ. They made f
 
 The data used for this specific report came from a FOI request answered by the Birmingham City Council. The file below show the information used by the Birmingham Eastside team to create the visualisation. 
 <ul>
-  <li><a href="domestic-violence/Domestic violence cases and expenditure on services.xlsx> XLSX: Domestic violence cases and expenditure on services</a></li>
+  <li><a href="https://github.com/Birmingham-Eastside/domestic-violence/blob/master/Domestic%20violence%20cases%20and%20expenditure%20on%20services.xlsx"> XLSX: Domestic violence cases and expenditure on services</a></li>
 </ul>
 
 # Visualisation
@@ -26,7 +26,8 @@ Both charts were designed using <a href="https://www.datawrapper.de/">Datawrappe
   <li>Bar chart: Birmingham expenditure on domestic violence services and projects, as a sum of the spending by both the Place and People's Directorates of the City Council from 2013/14 to 2016/17.</li>
 </ul>
 
-#Other Media Coverage
+# Other Media Coverage
+
 <ul>
 <li><a href= "http://www.independent.co.uk/news/uk/politics/women-refuge-budget-cut-quarter-domestic-violence-victims-children-support-a8003066.html">The Independent: Women's refuge budgets slashed by nearly a quarter over last seven years</a></li>
 
